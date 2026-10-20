@@ -278,3 +278,6 @@ GitHub: [github.com/gopichand-7](https://github.com/gopichand-7)
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License: free to use, modify, and distribute with attribution.
