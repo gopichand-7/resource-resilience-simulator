@@ -180,13 +180,13 @@ python -m pytest -q
 
 ## ☁️ Deployment
 
-The application can be deployed on **Streamlit Community Cloud**.
+The application is deployed on **Streamlit Community Cloud**.
 
 **Configuration**
 - Repository: `gopichand-7/resource-resilience-simulator`
 - Branch: `main`
 - Main file: `app.py`
-- Python version: `3.12`
+- Python version: `3.13`
 - Secrets: none required
 
 **Shipping an update**
