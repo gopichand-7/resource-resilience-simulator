@@ -1,0 +1,19 @@
+# Python virtual environment (everyone recreates it with pip install -r requirements.txt)
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Test cache
+.pytest_cache/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Excel lock files created when a workbook is open
+~$*.xlsx
+desktop.ini
