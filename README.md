@@ -14,7 +14,12 @@ The project demonstrates how a program office can test the resilience of a staff
 **Status:** ✅ Complete
 
 ---
+## 🌐 Live Application
 
+**Resource Resilience & Project Capacity Simulator:**
+https://resource-resilience-simulator.streamlit.app
+
+---
 ## 🖼️ Dashboard Preview
 
 ### Portfolio Map
